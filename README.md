@@ -29,7 +29,7 @@
   enter mysql, source db/schema.sql, USE techblog_db, quit mysql  <br />
   in Node JS, npm run seeds, npm start  <br />
   Visit localhost:3001 to use site  <br />
-  Site deployed to Heroku at:  <br />
+  Site deployed to Heroku at: https://mysterious-plateau-56157.herokuapp.com/  <br />
 
   <a id="questions"></a>
   ## Questions 
