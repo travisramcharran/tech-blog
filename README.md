@@ -4,6 +4,7 @@
   - [Description](#description)
   - [Installation](#install)
   - [Usage](#usage)
+  - [Screenshots] (#screenshots)
   - [Questions](#questions)
 
   <a id="description"></a>
@@ -30,6 +31,14 @@
   in Node JS, npm run seeds, npm start  <br />
   Visit localhost:3001 to use site  <br />
   Site deployed to Heroku at: https://mysterious-plateau-56157.herokuapp.com/  <br />
+
+ <a id="screenshots"></a>
+
+  ## Screenshots
+
+  [alt](./screenshots/Screen%20Shot%202022-09-19%20at%2010.23.04%20PM.png)
+  [alt](./screenshots/Screen%20Shot%202022-09-19%20at%2010.23.11%20PM.png)
+  [alt](./screenshots/Screen%20Shot%202022-09-19%20at%2010.23.32%20PM.png)
 
   <a id="questions"></a>
   ## Questions 
