@@ -4,7 +4,6 @@
   - [Description](#description)
   - [Installation](#install)
   - [Usage](#usage)
-  - [Screenshots] (#screenshots)
   - [Questions](#questions)
 
   <a id="description"></a>
@@ -33,7 +32,7 @@
   Site deployed to Heroku at: 
   https://mysterious-plateau-56157.herokuapp.com/  <br />
 
- <a id="screenshots"></a>  <br />
+
 
  ## Screenshots
 
@@ -42,6 +41,6 @@
   ![alt text](./screenshots/Screen%20Shot%202022-09-19%20at%2010.23.32%20PM.png)
 
   <a id="questions"></a> <br />
-  
+
   ## Questions 
    - Email: tc.ramcharran@gmail.com
