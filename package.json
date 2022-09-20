@@ -2,21 +2,13 @@
   "name": "tech-blog",
   "version": "1.0.0",
   "description": "module 14 hw",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest",
+    "seeds": "node seeds/index.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/travisramcharran/tech-blog.git"
-  },
-  "keywords": [],
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/travisramcharran/tech-blog/issues"
-  },
-  "homepage": "https://github.com/travisramcharran/tech-blog#readme",
   "dependencies": {
     "bcrypt": "^5.0.1",
     "connect-session-sequelize": "^7.1.5",
