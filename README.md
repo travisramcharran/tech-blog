@@ -30,16 +30,18 @@
   enter mysql, source db/schema.sql, USE techblog_db, quit mysql  <br />
   in Node JS, npm run seeds, npm start  <br />
   Visit localhost:3001 to use site  <br />
-  Site deployed to Heroku at: https://mysterious-plateau-56157.herokuapp.com/  <br />
+  Site deployed to Heroku at: 
+  https://mysterious-plateau-56157.herokuapp.com/  <br />
 
- <a id="screenshots"></a>
+ <a id="screenshots"></a>  <br />
 
-  ## Screenshots
+ ## Screenshots
 
-  [alt](./screenshots/Screen%20Shot%202022-09-19%20at%2010.23.04%20PM.png)
-  [alt](./screenshots/Screen%20Shot%202022-09-19%20at%2010.23.11%20PM.png)
-  [alt](./screenshots/Screen%20Shot%202022-09-19%20at%2010.23.32%20PM.png)
+  ![alt text](./screenshots/Screen%20Shot%202022-09-19%20at%2010.23.04%20PM.png)
+  ![alt text](./screenshots/Screen%20Shot%202022-09-19%20at%2010.23.11%20PM.png)
+  ![alt text](./screenshots/Screen%20Shot%202022-09-19%20at%2010.23.32%20PM.png)
 
-  <a id="questions"></a>
+  <a id="questions"></a> <br />
+  
   ## Questions 
    - Email: tc.ramcharran@gmail.com
