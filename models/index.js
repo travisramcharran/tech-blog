@@ -13,12 +13,6 @@ Post.belongsTo(User, {
   onDelete: 'SET NULL'
 });
 
-// User.belongsToMany(Post, {
-//   through: Comment,
-//   foreignKey: 'user_id',
-//   onDelete: 'SET NULL'
-// });
-
 Comment.belongsTo(User, {
   foreignKey: 'user_id',
   onDelete: 'SET NULL'
